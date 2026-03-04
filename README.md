@@ -91,7 +91,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 ### Introduction to Data Science
 
 [What is Data Science (paid)](https://www.coursera.org/learn/what-is-datascience)
-
+[Data 8] (https://data8.org/zero-to-data-8/intro.html)
 ### Introduction to Computer Science
 
 _Students who already know basic programming in any language can skip this first course_
